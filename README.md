@@ -2,6 +2,16 @@
 
 My solution to the Exactspace React chat assignment. It's a small real-time chat app with a React frontend and an Express + Socket.IO backend.
 
+## Screenshots
+
+### Main Chat Interface
+![Main Chat Interface](assets/chat-overview.png)
+
+### Features Preview
+| Create Channel Modal | Emoji Picker & Mentions |
+| :---: | :---: |
+| ![Create Channel Modal](assets/create-channel.png) | ![Emoji Picker & Mentions](assets/emoji-picker.png) |
+
 ## Features
 
 - Type a message and hit **Send** (or Enter) to post it to the thread.
